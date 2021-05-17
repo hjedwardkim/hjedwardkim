@@ -1,10 +1,10 @@
 ### Hello! 👋
 
+**AI team data analyst from Helsinki.**
 
-
--  I’m currently working on **Human-in-the-loop detection and classification**
-- 📫 How to reach me **skyoforange@gmail.com**
-- ⚡ Fun fact **I run two minimal techno web radio shows.**
+-  Current project: **Human-in-the-loop detection and classification**
+- 📫 Contact: **skyoforange@gmail.com**
+- ⚡ Fun fact: **I run two minimal techno web radio shows.**
 
 
 <h3 align="left">Languages and Tools:</h3>
