@@ -2,7 +2,7 @@
 
 **AI team data analyst from Helsinki.**
 
--  Current project: **Human-in-the-loop detection and classification**
+-  Current project: **Human-in-the-loop object detection and image classification**
 - 📫 Contact: **skyoforange@gmail.com**
 - ⚡ Fun fact: **I run two minimal techno web radio shows.**
 
