@@ -1,8 +1,8 @@
 ### Hello! 👋
 
-**AI team data analyst from Helsinki.**
+**AI/ML dev from Helsinki.**
 
--  Current project: **Human-in-the-loop object detection and image classification**
+-  Current project: **Transformer-based object detection**
 - 📫 Contact: **skyoforange@gmail.com**
 - ⚡ Fun fact: **I run two minimal techno web radio shows.**
 
