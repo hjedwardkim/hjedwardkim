@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-**AI/ML dev from Helsinki.**
+**AI/ML dev & labeling team manager from Helsinki.**
 
 -  Current project: **Transformer-based object detection**
 - 📫 Contact: **skyoforange@gmail.com**
