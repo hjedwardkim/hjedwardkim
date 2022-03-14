@@ -2,7 +2,11 @@
 
 **AI/ML dev & labeling team manager from Helsinki.**
 
--  Current project: **Transformer-based object detection**
+-  Project(s): 
+  -  **Transformer-based object detection**
+  -  **Point cloud dataset creation with PyG**
+  -  **Finetuning techniques with object detection**
+  -  **Pretrained image classifier with PyTorch**
 - 📫 Contact: **skyoforange@gmail.com**
 - ⚡ Fun fact: **I run two minimal techno web radio shows.**
 
