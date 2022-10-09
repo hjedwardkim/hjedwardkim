@@ -1,19 +1,21 @@
-### Hello! 👋
+## Hello! 👋
 
-**AI/ML dev & labeling team manager from Helsinki.**
+I'm a computer vision AI/ML dev & labeling team manager based in Helsinki.
 
--  Projects:
-  - **Point cloud**
+- 📫 Contact: www.linkedin.com/in/hjedkim
+
+## **Projects:**
+  - ### **Point cloud**
     -  Creating point cloud vectorized dataset creation with PyG
     -  Writing a heuristic algorithm to fix point-wise segmentation errors
-  - **Image AI**
+  - ### **Image AI**
     - [Ongoing] Implementing error detection in object detection labels
     - [Ongoing] Implementing entropy-based active learning data selection algorithms
     - Implementing transformer-based object detection
     - Building and updating object detection pipeline for defect analysis
     - Creating scalable human-in-the-loop labeling pipelines
     - Integrating image classification for thumbnail images ordering
-- 📫 Contact: **skyoforange@gmail.com**
+
 - ⚡ Fun fact: **I run two minimal techno web radio shows.**
 
 
