@@ -6,13 +6,14 @@ I'm a computer vision AI/ML dev & labeling team manager based in Helsinki.
 
 ## **Projects:**
   - ### **Point cloud**
+    - Streamlining QA workflows with DZI image and LAS/PCD conversion processors
     -  Creating point cloud vectorized dataset creation with PyG
     -  Writing a heuristic algorithm to fix point-wise segmentation errors
   - ### **Image AI**
+    - [Ongoing] Implementing active learning data selection algorithms
     - [Ongoing] Implementing error detection in object detection labels
-    - [Ongoing] Implementing entropy-based active learning data selection algorithms
     - Implementing transformer-based object detection
-    - Building and updating object detection pipeline for defect analysis
+    - Building and updating object detection pipeline for asset inventory analysis
     - Creating scalable human-in-the-loop labeling pipelines
     - Integrating image classification for thumbnail images ordering
 
