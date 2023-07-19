@@ -1,20 +1,20 @@
 ## Hello! 👋
 
-I'm a computer vision AI/ML dev & labeling team manager based in Helsinki.
+MLOps Lead at Sharper Shape specializing in DataOps, MLOps, and computer vision development.
 
 - 📫 Contact: www.linkedin.com/in/hjedkim
 
 ## **Projects:**
   - ### **Point cloud**
     - Streamlining QA workflows with DZI image and LAS/PCD conversion processors
-    -  Creating point cloud vectorized dataset creation with PyG
-    -  Writing a heuristic algorithm to fix point-wise segmentation errors
+    - Creating point cloud vectorized dataset creation with PyG
+    - Writing a heuristic algorithm to fix point-wise segmentation errors
+    - Building data I/O pipelines for scaled labeling workflows
+    - Standardizing production model validation and comparison
   - ### **Image AI**
-    - [Ongoing] Implementing active learning data selection algorithms
-    - [Ongoing] Implementing error detection in object detection labels
     - Implementing transformer-based object detection
     - Building and updating object detection pipeline for asset inventory analysis
-    - Creating scalable human-in-the-loop labeling pipelines
+    - Creating scalable machine-assisted labeling pipelines
     - Integrating image classification for thumbnail images ordering
 
 - ⚡ Fun fact: **I run two minimal techno web radio shows.**
