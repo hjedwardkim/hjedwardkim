@@ -6,6 +6,8 @@ MLOps Lead at Sharper Shape specializing in DataOps, MLOps, and computer vision 
 
 ## **Projects:**
   - ### **Point cloud**
+    - Developing and architecting a statistical quality control process to lower QA costs
+    - Testing projection algorithms from 3D to 2D for efficient CNN
     - Streamlining QA workflows with DZI image and LAS/PCD conversion processors
     - Creating point cloud vectorized dataset creation with PyG
     - Writing a heuristic algorithm to fix point-wise segmentation errors
